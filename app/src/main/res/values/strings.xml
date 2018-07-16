@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VKD</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="where_to_save">Место сохранения</string>
+    <string name="load_music">Музыка скачивается:</string>
+    <string name="load_started_toast">Загрузка началась</string>
+    <string name="enter_file_name">Введите имя файла</string>
+    <string name="artist">Исполнитель</string>
+    <string name="title">Название</string>
+    <string name="download">Скачать</string>
+
+</resources>
